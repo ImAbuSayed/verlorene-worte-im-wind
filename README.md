@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/verlorene-worte-im-wind/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Verlorene Worte im Wind](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verlorene-worte-im-wind/) |
+| **Get License** | [Secure Licensing Rights for Verlorene Worte im Wind](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verlorene-worte-im-wind/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `720840c53380f4e8b6d95d1d7b66cccad322e44e44fd5307909aa24aa259bf19` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
