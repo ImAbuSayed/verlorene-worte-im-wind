@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/verlorene-worte-im-wind/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Verlorene Worte im Wind](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verlorene-worte-im-wind/) |
+| **Get License** | [Request Licensing for Verlorene Worte im Wind](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verlorene-worte-im-wind/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Roll' durch die City, Late Night, nur auf der Jagd nach dir
+> Dein Blick trifft mich heavy, Baby, komm näher zu mir
+> Keine Regeln von gestern, wir brennen im Neonlicht
+> Verlorene Worte im Wind, doch ich lese dein Gesicht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
